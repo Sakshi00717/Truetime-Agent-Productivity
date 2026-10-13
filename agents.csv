@@ -1,0 +1,17 @@
+agent_id,display_name,ozonetel_login,branch,team,active
+A01,Agent_01,agent01_sales_ggn,GGN,Sales,True
+A02,Agent_02,agent02_sales_ggn,GGN,Sales,True
+A03,Agent_03,agent03_sales_ggn,GGN,Sales,True
+A04,Agent_04,agent04_sales_ggn,GGN,Sales,True
+A05,Agent_05,agent05_sales_ggn,GGN,Sales,True
+A06,Agent_06,agent06_sales_ggn,GGN,Sales,True
+A07,Agent_07,agent07_helpline_ggn,GGN,Helpline,True
+A08,Agent_08,agent08_helpline_ggn,GGN,Helpline,True
+A09,Agent_09,agent09_helpline_ggn,GGN,Helpline,True
+A10,Agent_10,agent10_sales_hyd,HYD,Sales,True
+A11,Agent_11,agent11_sales_hyd,HYD,Sales,True
+A12,Agent_12,agent12_sales_hyd,HYD,Sales,True
+A13,Agent_13,agent13_sales_hyd,HYD,Sales,True
+A14,Agent_14,agent14_sales_hyd,HYD,Sales,True
+A15,Agent_15,agent15_helpline_hyd,HYD,Helpline,True
+A16,Agent_16,agent16_helpline_hyd,HYD,Helpline,True
